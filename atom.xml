@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jingda Mai&#39;s Blog</title>
+  
+  <subtitle>Full Stack Development with Vue.js and Flask</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jingdamai.com/"/>
+  <updated>2020-06-06T15:42:16.958Z</updated>
+  <id>https://jingdamai.com/</id>
+  
+  <author>
+    <name>Jingda Mai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WebSocket Streaming Between Vue.js and Flask-SocketIO</title>
+    <link href="https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/"/>
+    <id>https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/</id>
+    <published>2020-06-05T13:25:15.000Z</published>
+    <updated>2020-06-06T15:42:16.958Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;WebSocket-Streaming-Between-Vue-js-and-Flask-SocketIO&quot;&gt;&lt;a href=&quot;#WebSocket-Streaming-Between-Vue-js-and-Flask-SocketIO&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Full Stack Development" scheme="https://jingdamai.com/categories/Full-Stack-Development/"/>
+    
+      <category term="WebSocket" scheme="https://jingdamai.com/categories/Full-Stack-Development/WebSocket/"/>
+    
+    
+      <category term="WebSocket" scheme="https://jingdamai.com/tags/WebSocket/"/>
+    
+      <category term="streaming" scheme="https://jingdamai.com/tags/streaming/"/>
+    
+      <category term="Vue.js" scheme="https://jingdamai.com/tags/Vue-js/"/>
+    
+      <category term="Flask" scheme="https://jingdamai.com/tags/Flask/"/>
+    
+      <category term="Flask-SocketIO" scheme="https://jingdamai.com/tags/Flask-SocketIO/"/>
+    
+      <category term="base64" scheme="https://jingdamai.com/tags/base64/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Automate SFTP Transfer By Python</title>
+    <link href="https://jingdamai.com/2020/06/04/automate-sftp-transfer-by-python/"/>
+    <id>https://jingdamai.com/2020/06/04/automate-sftp-transfer-by-python/</id>
+    <published>2020-06-04T14:15:13.000Z</published>
+    <updated>2020-06-06T15:32:54.260Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Automate-SFTP-Transfer-By-Python&quot;&gt;&lt;a href=&quot;#Automate-SFTP-Transfer-By-Python&quot; class=&quot;headerlink&quot; title=&quot;Automate SFTP Transfer By
+        
+      
+    
+    </summary>
+    
+      <category term="Scripts" scheme="https://jingdamai.com/categories/Scripts/"/>
+    
+    
+      <category term="Python" scheme="https://jingdamai.com/tags/Python/"/>
+    
+      <category term="SFTP" scheme="https://jingdamai.com/tags/SFTP/"/>
+    
+  </entry>
+  
+</feed>

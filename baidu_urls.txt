@@ -1,0 +1,2 @@
+https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/
+https://jingdamai.com/2020/06/04/automate-sftp-transfer-by-python/
