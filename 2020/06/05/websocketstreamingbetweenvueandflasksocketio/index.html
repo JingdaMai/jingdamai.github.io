@@ -440,11 +440,6 @@ Vue.js SetupOverviewThe frontend job is to connect the WebSock">
                 
 
                 
-                <div id="busuanzi_container_page_pv" class="info-break-policy">
-                    <i class="fa fa-eye fa-fw"></i>Read Count:&nbsp;&nbsp;
-                    <span id="busuanzi_value_page_pv"></span>
-                </div>
-                
             </div>
         </div>
         <hr class="clearfix">
@@ -1420,20 +1415,8 @@ Vue.js SetupOverviewThe frontend job is to connect the WebSock
 
             
             
-            <br>
-            
-            <span id="busuanzi_container_site_pv" style='display:none'>
-                <span id="busuanzi_value_site_pv" class="white-color"></span>
-            </span>
-            
-            
-            <span id="busuanzi_container_site_uv" style='display:none'>
-                persons &nbsp; | &nbsp; <span id="busuanzi_value_site_uv" class="white-color"></span> views
-            </span>
-            
-            
         </div>
-        <div class="col s12 m4 l4 social-link social-statis">
+        <div class="col s12 m4 l4 social-link ">
     <a href="https://github.com/JingdaMai" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fa fa-github"></i>
     </a>
@@ -1505,7 +1488,7 @@ Vue.js SetupOverviewThe frontend job is to connect the WebSock
         minutes - 0-59之间的整数，做为date对象的分钟数
         seconds - 0-59之间的整数，做为date对象的秒数
         microseconds - 0-999之间的整数，做为date对象的毫秒数 */
-        var t1 = Date.UTC(2020, 06, 05, 00, 00, 00); //北京时间2018-2-13 00:00:00
+        var t1 = Date.UTC(2020, 06, 5, 00, 00, 00); //北京时间2018-2-13 00:00:00
         var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
         var diff = t2 - t1;
         var diffYears = Math.floor(diff / years);
@@ -1571,8 +1554,6 @@ $(function () {
 
     
 
-    
-    <script async src="/libs/others/busuanzi.pure.mini.js"></script>
     
 
     <!-- 雪花特效 -->
