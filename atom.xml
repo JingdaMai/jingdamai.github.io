@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jingdamai.com/"/>
-  <updated>2020-06-06T15:42:16.958Z</updated>
+  <updated>2020-06-06T17:23:57.402Z</updated>
   <id>https://jingdamai.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/"/>
     <id>https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/</id>
     <published>2020-06-05T13:25:15.000Z</published>
-    <updated>2020-06-06T15:42:16.958Z</updated>
+    <updated>2020-06-06T17:23:57.402Z</updated>
     
     <summary type="html">
     
@@ -40,6 +40,8 @@
       <category term="WebSocket" scheme="https://jingdamai.com/categories/Full-Stack-Development/WebSocket/"/>
     
     
+      <category term="Python" scheme="https://jingdamai.com/tags/Python/"/>
+    
       <category term="WebSocket" scheme="https://jingdamai.com/tags/WebSocket/"/>
     
       <category term="streaming" scheme="https://jingdamai.com/tags/streaming/"/>
@@ -51,6 +53,8 @@
       <category term="Flask-SocketIO" scheme="https://jingdamai.com/tags/Flask-SocketIO/"/>
     
       <category term="base64" scheme="https://jingdamai.com/tags/base64/"/>
+    
+      <category term="Javascript" scheme="https://jingdamai.com/tags/Javascript/"/>
     
   </entry>
   

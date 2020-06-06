@@ -22,6 +22,8 @@
       
         <tags>
             
+            <tag> Python </tag>
+            
             <tag> WebSocket </tag>
             
             <tag> streaming </tag>
@@ -33,6 +35,8 @@
             <tag> Flask-SocketIO </tag>
             
             <tag> base64 </tag>
+            
+            <tag> Javascript </tag>
             
         </tags>
       
