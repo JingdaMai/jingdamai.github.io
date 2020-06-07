@@ -447,7 +447,9 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="Automate-SFTP-Transfer-By-Python"><a href="#Automate-SFTP-Transfer-By-Python" class="headerlink" title="Automate SFTP Transfer By Python"></a>Automate SFTP Transfer By Python</h1><h2 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h2><p>Transferring files to a Linux host server could be a pain if you have to do that many times (For example, you have to deploy and test your new code in the server many times). I did some research online and found a solution that can automate such process by the paramiko package.</p>
+                <h1 id="Automate-SFTP-Transfer-By-Python"><a href="#Automate-SFTP-Transfer-By-Python" class="headerlink" title="Automate SFTP Transfer By Python"></a>Automate SFTP Transfer By Python</h1><h2 id="Description"><a href="#Description" class="headerlink" title="Description"></a>Description</h2><p>Transferring files to a Linux host server could be a pain if you have to do that many times. For example, you have to deploy and test your new code in the server many times. I did some research online and found a solution that can automate such process by the paramiko package.</p>
+<br>
+
 <p>The following code snippets can be used to transfer any files or directories to a SFTP server.</p>
 <h2 id="Python-Environment"><a href="#Python-Environment" class="headerlink" title="Python Environment"></a>Python Environment</h2><p>Python 3.7.7 + paramiko</p>
 <pre><code>pip install paramiko</code></pre><h2 id="All-You-Need"><a href="#All-You-Need" class="headerlink" title="All You Need"></a>All You Need</h2><p>All the code that you need to transfer file(s) or a directory to a SFTP server. </p>
@@ -527,7 +529,7 @@
                  'C<span class="token punctuation">:</span>\\Users\\YourName\\Desktop\\backend\'<span class="token punctuation">,</span> 
                  file_names<span class="token punctuation">,</span> <span class="token string">'UserName'</span><span class="token punctuation">,</span> <span class="token string">'Passsword'</span><span class="token punctuation">)</span>
 
-    upload_dir<span class="token punctuation">(</span><span class="token string">'124.219.161.88'</span><span class="token punctuation">,</span> <span class="token number">21622</span><span class="token punctuation">,</span> <span class="token string">'/home/backend/models'</span><span class="token punctuation">,</span>
+    upload_dir<span class="token punctuation">(</span><span class="token string">'88.88.88.88'</span><span class="token punctuation">,</span> <span class="token number">22</span><span class="token punctuation">,</span> <span class="token string">'/home/backend/models'</span><span class="token punctuation">,</span>
                <span class="token string">'C:\\Users\\YourName\\Desktop\\backend\\models'</span><span class="token punctuation">,</span>
               <span class="token string">'UserName'</span><span class="token punctuation">,</span> <span class="token string">'Passsword'</span><span class="token punctuation">)</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 <h2 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h2><p>When transferring files, ‘/‘ or ‘\\\\’ should always be added at the end while neither of them should be added when transferring directories.</p>
