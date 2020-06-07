@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/</loc>
+    
+    <lastmod>2020-06-07T06:40:05.588Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jingdamai.com/2020/06/04/automate-sftp-transfer-by-python/</loc>
     
     <lastmod>2020-06-07T06:34:19.703Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://jingdamai.com/about/index.html</loc>
     
     <lastmod>2020-06-07T04:27:11.601Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jingdamai.com/2020/06/05/websocketstreamingbetweenvueandflasksocketio/</loc>
-    
-    <lastmod>2020-06-07T03:57:52.088Z</lastmod>
     
   </url>
   
@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://jingdamai.com/contact/index.html</loc>
+    <loc>https://jingdamai.com/categories/index.html</loc>
     
     <lastmod>2020-06-06T14:10:34.364Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jingdamai.com/categories/index.html</loc>
+    <loc>https://jingdamai.com/contact/index.html</loc>
     
     <lastmod>2020-06-06T14:10:34.364Z</lastmod>
     
